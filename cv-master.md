@@ -115,8 +115,8 @@ Exchange Student (CAMPUS Asia-AIMS); modules in International Trade and Photogra
 *Work across 7 programmes, joining stakeholder meetings and handling research, monitoring and evaluation, events and content.*
 - Helped run AFMAM for Students 2026, a Model ASEAN Meeting for 66 Indonesian high school delegates that closed with a Model East Asia Summit at the ASEAN Secretariat; interviewed 8 of 38 shortlisted teams and minuted coordination meetings with the organising committee.
 - Wrote an 18-page paper on ASEAN–China AI cooperation, drawing on 59 sources, and condensed it into a briefing and talking points for the Head of Programme's remarks at a China Institute of International Studies (CIIS) roundtable in Beijing.
-- Monitor and evaluate 30 MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact stories and edit team videos (5 to date, averaging 10,000 views).
-- Monitor mentoring sessions and business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth, including expansion into ASEAN markets.
+- Monitor and evaluate 30 MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact videos and edit team content (5 videos to date, averaging 10,000 views).
+- Monitor mentoring sessions and business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth and market expansion across ASEAN.
 - Hosted and ran the technical side of national finals in 5 countries for ASEAN Data Science Explorers, a data analytics competition for university students run with SAP, managing about 30 team presentations.
 
 **Korea-Indonesia Connection (KIC) FISIP UI** | January 2026 – July 2026
