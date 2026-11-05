@@ -32,10 +32,10 @@ Programme Intern at the ASEAN Foundation | Comparative and International Educati
 ## 1. About
 
 ```text
-Seongjae Lee is interested in Korea–ASEAN student mobility and aims to design exchange programmes that turn participants' experience into learning and lasting ties. His focus is how policy is translated into programme design, and which design conditions help experiential learning carry over into participants' studies, careers and continued exchange. This interest comes from seeing student mobility from both sides, as a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies). He is now a Programme Intern at the ASEAN Foundation, working across 7 ASEAN-wide programmes and learning at first hand how they are designed and delivered.
+I'm interested in Korea–ASEAN student mobility, and I aim to design exchange programmes that turn participants' experience into learning and lasting ties. My focus is how policy is translated into programme design, and which design conditions help experiential learning carry over into participants' studies, careers and continued exchange. This interest comes from seeing student mobility from both sides, as a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies). I'm now a Programme Intern at the ASEAN Foundation, working across 7 ASEAN-wide programmes and learning at first hand how they are designed and delivered.
 ```
 
-3인칭 네 문장(2026-11-05). 첫 줄에 관심사와 하고 싶은 일(교류 프로그램 설계: 경험 → 학습 → 지속적인 교류). '해외 체류(time abroad)' 표현은 사용자 의도와 달라 삭제. 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
+1인칭 네 문장(2026-11-05, 사용자 요청으로 3인칭에서 'I'로 변경). 첫 줄에 관심사와 하고 싶은 일(교류 프로그램 설계: 경험 → 학습 → 지속적인 교류). '해외 체류(time abroad)' 표현은 사용자 의도와 달라 삭제. 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
 Top skills(About 아래 5개 고정): International Education · Experiential Learning · Program Evaluation · Education Policy · Research
 
