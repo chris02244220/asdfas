@@ -30,25 +30,21 @@ ASEAN Foundation | Programme Coordination, M&E & Stakeholder Engagement across A
 ## 1. About
 
 ```text
-I'm Korean, based in Jakarta, and I work on programmes that connect people across ASEAN. As a Programme Intern at the ASEAN Foundation, I support 7 regional programmes, from youth diplomacy simulations to digital training for small businesses. In March 2027, I start a master's in Education Policy at Hankuk University of Foreign Studies.
+I'm interested in what makes time abroad last, especially for students moving between Korea and ASEAN. The same exchange can be a turning point for one student and a one-off for another, and I want to understand how programme design, and the policy behind it, makes the difference.
 
-I first came to the region as a participant: an exchange semester at Universiti Malaya on a CAMPUS Asia-AIMS government scholarship, then 12 days of fieldwork in Bangkok, Singapore and Jakarta with the CMK School of ASEAN Studies. Since then I've worked on the organising side, at the Korea Institute for ASEAN Studies in Busan, at Korea-Indonesia Connection, Universitas Indonesia, and now at the ASEAN Foundation.
+That question comes from seeing exchange from both sides. I took part as a student, on a CAMPUS Asia-AIMS exchange at Universiti Malaya and in the CMK School of ASEAN Studies. Since then I've worked on the organising side, at the Korea Institute for ASEAN Studies, Universitas Indonesia and now the ASEAN Foundation in Jakarta.
 
-Seeing exchange from both sides, I've noticed that the same time abroad can end as a one-off for one person and shape another person's career. Much of the difference comes from how a programme is designed. That's what I want to study next.
+What I focus on:
+• How policy is translated into programme design and evaluation
+• Experiential learning, and what participants carry home after time abroad
+• Human resource development, people-to-people exchange and public diplomacy
 
-A few things I've worked on:
-• AFMAM for Students 2026: helped run a Model ASEAN Meeting for 66 Indonesian high school delegates that closed at the ASEAN Secretariat, and interviewed 8 of 38 shortlisted teams
-• An 18-page paper on ASEAN–China AI cooperation, drawing on 59 sources, condensed into talking points for a roundtable in Beijing
-• ASEAN SOAR Together: monitoring and evaluating 30 MSMEs in a TikTok Shop-backed programme for 120 MSMEs in 11 countries
-• A waste-management project in Jakarta public housing: led a team of 4 Korean students and gave the keynote to 50 residents
-• First Prize, 2025 Your-K, Your-ASEAN Video Contest, Mission of the Republic of Korea to ASEAN
+In March 2027, I start a master's in Education Policy at Hankuk University of Foreign Studies to study these questions in depth.
 
-Skills I use most: programme coordination, monitoring and evaluation, stakeholder engagement, event operations, research and video production.
-
-Languages: Korean (native), English (professional working proficiency), Indonesian (limited working proficiency).
-
-I'm open to conversations about ASEAN–Korea cooperation, international education and youth programmes.
+I speak Korean, English and Indonesian. I'm always happy to connect with people working on ASEAN–Korea cooperation, international education and youth programmes, and I'm open to programme and research roles in these areas.
 ```
+
+관심사 중심으로 다시 씀(2026-11-05). 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
 Top skills(About 아래 5개 고정): Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Research
 
