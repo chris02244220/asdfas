@@ -18,33 +18,22 @@
 ### Headline (추천)
 
 ```text
-Programme Intern at ASEAN Foundation | Youth & Education Programmes, M&E, Stakeholder Engagement | ASEAN–Korea Exchange | Incoming Master's, Education Policy (HUFS) | Korean · English · Indonesian
+Programme Intern, ASEAN Foundation | ASEAN–Korea Exchange & Student Mobility | Incoming Master's, Education Policy | Korean · English · Indonesian
 ```
 
-### Headline (대안: 짧고 직무 중심)
+### Headline (대안: 더 짧게, 언어 제외)
 
 ```text
-ASEAN Foundation | Programme Coordination, M&E & Stakeholder Engagement across ASEAN | Incoming Master's in Education Policy | Korean · English · Indonesian
+ASEAN–Korea Exchange | Programme Intern, ASEAN Foundation | Incoming Master's in Education Policy
 ```
 
 ## 1. About
 
 ```text
-I'm interested in what makes time abroad last, especially for students moving between Korea and ASEAN. The same exchange can be a turning point for one student and a one-off for another, and I want to understand how programme design, and the policy behind it, makes the difference.
-
-That question comes from seeing exchange from both sides. I took part as a student, on a CAMPUS Asia-AIMS exchange at Universiti Malaya and in the CMK School of ASEAN Studies. Since then I've worked on the organising side, at the Korea Institute for ASEAN Studies, Universitas Indonesia and now the ASEAN Foundation in Jakarta.
-
-What I focus on:
-• How policy is translated into programme design and evaluation
-• Experiential learning, and what participants carry home after time abroad
-• Human resource development, people-to-people exchange and public diplomacy
-
-In March 2027, I start a master's in Education Policy at Hankuk University of Foreign Studies to study these questions in depth.
-
-I speak Korean, English and Indonesian. I'm always happy to connect with people working on ASEAN–Korea cooperation, international education and youth programmes, and I'm open to programme and research roles in these areas.
+Seongjae Lee works on ASEAN–Korea people-to-people exchange, focusing on international student mobility and programme design. As a Programme Intern at the ASEAN Foundation in Jakarta, he supports 7 regional programmes, from a Model ASEAN Meeting for Indonesian high school students to digital training for small businesses. Having taken part in exchanges as a student and helped organise them in Indonesia, he starts a master's in Education Policy at Hankuk University of Foreign Studies in March 2027 to study what makes time abroad last.
 ```
 
-관심사 중심으로 다시 씀(2026-11-05). 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
+3인칭 세 문장으로 줄임(2026-11-05, 사용자 예시 형식). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
 Top skills(About 아래 5개 고정): Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Research
 
@@ -125,7 +114,7 @@ A two-month programme run by the Asiatic Research Institute, Korea University, c
 
 • Selected as one of 15 Korean university students.
 • Spent 12 days on fieldwork in Bangkok, Singapore and Jakarta, working in joint teams with students from Universitas Indonesia and Chulalongkorn University.
-• Led the team's survey fieldwork in Indonesia (54 respondents), then co-authored and presented our comparative study of animal protein and malnutrition in Indonesia and the Philippines, which received the programme's Excellence Award.
+• Led the team's survey fieldwork in Indonesia (54 respondents), then co-authored and presented the team's comparative study of animal protein and malnutrition in Indonesia and the Philippines, which received the programme's Excellence Award.
 ```
 
 ## 3. Education
