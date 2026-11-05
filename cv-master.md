@@ -289,6 +289,8 @@ Incoming master's student in Education Policy at Hankuk University of Foreign St
 
 ## 4. LinkedIn 반영할 것
 
+LinkedIn 전체 최종본(헤드라인·About·경력·학력·프로젝트·수상·언어·스킬·Featured·헤드헌터 설정)은 `linkedin-profile.md`에 있다. 아래 표는 이전 점검 기록.
+
 | 항목 | 수정 |
 |---|---|
 | 주소 | 현재 linkedin.com/in/seongjae--lee. 하이픈 하나짜리 주소로 바꿀 수 있으면 변경 |
