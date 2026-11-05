@@ -53,6 +53,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 | ASEAN SOAR Together | ASEAN Foundation·TikTok Shop·ASEAN-BAC의 MSME 디지털 역량 사업. 2025년 1기 50개 기업. 2026년 2.0은 11개 회원국 MSME 120곳, 6~12월 | [5][6][25] |
 | ASEAN Data Science Explorers (ADSE) | ASEAN Foundation·SAP의 아세안 대학생 데이터 분석 경진대회. 2인 1팀, 나라별 결선 10팀(2025 규정), 우승팀은 지역 결선 진출 | [26][27] |
 | ASEAN SEDP Elevate | 4년간 진행된 ASEAN SEDP(사회적기업 100곳 지원)의 후속 과정. SAP 후원, 2026년 동문 사회적기업 17곳 멘토링·마스터클래스·비즈니스 매칭 | [28][29] |
+| AFMAM | ASEAN Foundation의 대표 청년 프로그램. 공식 AFMAM은 대학생 대상(2026 EAS판: 12.7~11, ASEAN 사무국, 18~26세 최대 60명, ASEAN Work Plan on Youth 2026~2030에 포함). 고등학생판 'AFMAM for Students'는 인도네시아 교사 단체 FGII가 주도, 과거 외교부·교육 당국 지원 보도. 2026 고등학생판 세부(100명, 장소, 교육부 미팅)는 공개 자료 없음(사용자 직접 경험) | [32][33][34] |
 | Real Bean Coffee | 베트남 커피 기업. SEDP Elevate 17곳 중 2곳으로 선정돼 2026년 9월 마닐라 ASEAN Inclusive Business Forum·MSME Summit에서 소개됨. CV에는 쓰지 않음(사용자 결정) | [29][30][31] |
 | CAMPUS Asia-AIMS | 교육부 총괄·예산, 대교협 관리. 학기 교류생 월 70만 원(대교협 기본계획). 대학 공고에 '국가장학'으로 표기 | [7][8] |
 | AIMS 지원 사례 | 전남대 2025-2: 월 70만 원 × 4회, 정착 20만 원, 항공 50만 원(최대 350만 원). 한남대: 왕복 항공 최대 50만 원. 영산대: 항공 최대 100만 원 | [8][9][10] |
@@ -69,7 +70,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 
 | 항목 | 내용 |
 |---|---|
-| ASEAN Foundation | CIIS 원탁회의 날짜(선택) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
+| ASEAN Foundation | AFMAM 고등학생판의 공식 명칭('AFMAM for Students'인지), 공동 주최(FGII 등), 미팅한 교육 당국(중앙 Kemendikdasmen인지 자카르타 교육청인지), 지원자·면접 인원, 행사 날짜 / CIIS 원탁회의 날짜(선택) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
 | AIMS 장학금 금액 | 월 체재비 받은 횟수, 항공료 실제 금액. 현재 USD 3,500은 '6개월, 항공 50만 원' 가정 |
 | 말레이어 수준 | elementary 또는 limited working. 기초 수준이면 Profile 마지막 문장 수정 |
 | 학위 영문명 | 한국외대(합격 통지서), 부산외대(졸업장), 학점 |
@@ -107,13 +108,16 @@ Incoming master's student in Education Policy at Hankuk University of Foreign St
 
 **ASEAN Foundation** | July 2026 – Present
 **Programme Intern**
-*Work across 7 programmes, joining stakeholder meetings and handling research, monitoring and evaluation, events and content.*
+*Work across 7 programmes, covering participant selection, monitoring and evaluation, research, events and stakeholder meetings.*
+- Helped run [AFMAM for Students], a Model ASEAN Meeting at the ASEAN Secretariat for 100 Indonesian high school students: interviewed applicants, managed the event and joined meetings with [Indonesia's Ministry of Primary and Secondary Education].
 - Wrote an 18-page paper on ASEAN–China AI cooperation, drawing on 59 sources, and condensed it into a briefing and talking points for the Head of Programme's remarks at a China Institute of International Studies (CIIS) roundtable in Beijing.
 - Monitor and evaluate [X] MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact stories and edit team videos (5 to date, averaging 10,000 views).
 - Monitor mentoring sessions and, from [month], business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth, including expansion into ASEAN markets.
 - Hosted and ran the technical side of national finals in 5 countries for ASEAN Data Science Explorers, a data analytics competition for university students run with SAP, managing about 30 team presentations.
 
-초안 3판(2026-11-05). 리서치 불릿이 가장 강해 맨 앞으로 올림(사용자 제공 문장을 다듬음). 프로그램 관리 직무에 낼 때는 SOAR를 1번으로. AI Ready ASEAN을 밝히고 싶으면 리서치 불릿 앞에 'For AI Ready ASEAN,'(3줄로 늘어남). 원탁회의 날짜를 알면 'in Beijing' 뒤에 '(Month 2026)'.
+초안 4판(2026-11-05). AFMAM 고등학생판을 1번으로 추가(선발부터 행사 운영, 교육 당국 미팅까지 맡아 요약문의 '정책 → 프로그램 설계'와 가장 가깝고 교육 프로그램이라 대학원 지원에 맞음). 리서치는 2번. 정책·리서치 직무에 낼 때는 1·2번을 바꿈.
+
+초안 3판 메모(2026-11-05). 리서치 불릿이 가장 강해 맨 앞으로 올림(사용자 제공 문장을 다듬음). 프로그램 관리 직무에 낼 때는 SOAR를 1번으로. AI Ready ASEAN을 밝히고 싶으면 리서치 불릿 앞에 'For AI Ready ASEAN,'(3줄로 늘어남). 원탁회의 날짜를 알면 'in Beijing' 뒤에 '(Month 2026)'.
 
 초안 2판 메모(2026-11-05). 설명 줄은 재단 소개 대신 본인 역할 요약(사용자 요청). SEDP 포럼 성과는 쓰지 않음(사용자 요청). 영상은 평균 1만 회(100만 회 아님). SOAR·SEDP는 진행 중이라 현재형, ADSE는 끝난 일이라 과거형. 릴스 5회·5.6만 회는 CV에서 빼고 LinkedIn에만. 커피 기업 멘토링 내용(말레이시아 멘토가 재고 관리·제품 선정 조언)은 면접용 사례.
 
@@ -241,3 +245,6 @@ Incoming master's student in Education Policy at Hankuk University of Foreign St
 29. Daily Tribune (2026.10.2): https://tribune.net.ph/2026/10/02/asean-backs-two-social-enterprises
 30. SunStar: https://www.sunstar.com.ph/davao/asean-program-opens-doors-for-social-enterprises
 31. Mindanao Times: https://www.mindanaotimes.com.ph/asean-sedp-elevate-showcases-two-asean-social-enterprises-at-msme-summit-and-asean-inclusive-business-forum-2026/
+32. ASEAN Foundation, AFMAM EAS 2026 모집 공고: https://aseanfoundation.org/call-for-application/asean-foundation-model-east-asia-summit-2026-marking-50-years-of-the-treaty-of-amity-and-cooperation/
+33. AFMAM For Students(인스타그램): https://www.instagram.com/afmamforstudents/
+34. Securitynews, FGII·외교부의 고등학생 AFMAM 준비: https://securitynews.co.id/fgii-dan-kemenlu-ri-bahas-persiapan-afmam-untuk-siswa-sma-jakarta/
