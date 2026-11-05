@@ -15,27 +15,27 @@
 | Current position 표시 | ASEAN Foundation |
 | Profile language | English |
 
-헤드라인 방향(2026-11-05, 사용자 요청): 교육학 키워드 중심, 첫 키워드에 ASEAN, 언어 제외, 대학원 언급 제외. 직무 키워드(M&E 등)는 경력 섹션 스킬 태그에 둠.
+헤드라인(2026-11-05): 사용자의 원래 헤드라인을 채택. 교육학 정체성(Comparative and International Education)과 관심 초점(Korea–ASEAN Student Mobility)이 분명하고 짧음. 언어·대학원 언급 없음. 직무 키워드(M&E 등)는 경력 섹션 스킬 태그에 둠.
 
 ### Headline (추천)
 
 ```text
-International Student Mobility in ASEAN | Experiential Learning, Learning Transfer & Programme Design | Education Policy & HRD | ASEAN Foundation
+Programme Intern at the ASEAN Foundation | Comparative and International Education | Korea–ASEAN Student Mobility
 ```
 
-### Headline (대안: 더 짧게)
+### Headline (대안: 프로그램 설계 추가)
 
 ```text
-ASEAN Student Mobility & Experiential Learning | Education Policy & Programme Design | ASEAN Foundation
+Programme Intern at the ASEAN Foundation | Comparative and International Education | Korea–ASEAN Student Mobility & Programme Design
 ```
 
 ## 1. About
 
 ```text
-Seongjae Lee is interested in international student mobility, and in why time abroad ends as a one-off for some and grows into sustained engagement for others. He focuses on how policy is translated into programme design, and how that design shapes whether experiential learning abroad transfers to participants' studies and careers after they return. This interest comes from experiencing exchange as both a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies). He is now a Programme Intern at the ASEAN Foundation in Jakarta, supporting 7 regional programmes.
+Seongjae Lee is interested in Korea–ASEAN student mobility and aims to design exchange programmes that turn participants' experience into learning and lasting ties. His focus is how policy is translated into programme design, and which design conditions help experiential learning carry over into participants' studies, careers and continued exchange. This interest comes from seeing student mobility from both sides, as a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies). He is now a Programme Intern at the ASEAN Foundation in Jakarta, supporting 7 regional programmes.
 ```
 
-3인칭 네 문장, 관심사로 시작(2026-11-05, 사용자 요청: 첫 줄에 관심사). 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
+3인칭 네 문장(2026-11-05). 첫 줄에 관심사와 하고 싶은 일(교류 프로그램 설계: 경험 → 학습 → 지속적인 교류). '해외 체류(time abroad)' 표현은 사용자 의도와 달라 삭제. 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
 Top skills(About 아래 5개 고정): International Education · Experiential Learning · Program Evaluation · Education Policy · Research
 
