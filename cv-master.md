@@ -81,7 +81,96 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 | KS Tubun | 위치(2026 UI 보도는 서자카르타, 2019 Jakarta Post는 중앙 자카르타 Tanah Abang) |
 | 기타 | BIPA 수료 레벨, Technical 도구, CMK 상장의 심사 문구 |
 
-## 3. CV 본문 (현재 확정본)
+## 3. CV 최종본 (사용자 PDF 2026-11-05 기준, 최종 검토 수정 반영)
+
+서식: 기관·기간·직함 굵게, 설명 줄 기울임(ASEAN Foundation 포함), 날짜는 오른쪽 탭 정지로 정렬, 본문 왼쪽 정렬, 'USD 3,500'은 줄바꿈 없는 공백.
+
+**Seongjae Lee**
+reyhanleesj@gmail.com | +82 10 9166 0651 | linkedin.com/in/seongjae--lee
+
+**Summary**
+Incoming master's student in Education Policy at Hankuk University of Foreign Studies (from March 2027), focusing on international student mobility as part of ASEAN–Korea people-to-people exchange. Experience as both a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies) has shown that time abroad can end as a one-off or grow into sustained engagement. Particularly interested in how policy is translated into programme design, and how that design shapes whether experiential learning abroad transfers to participants' studies and careers after they return.
+(선택: 마지막에 'Speaks Korean, English and Indonesian.')
+
+**Education**
+
+**Hankuk University of Foreign Studies** | From March 2027
+Master's in Education Policy (incoming)
+
+**Busan University of Foreign Studies (BUFS)** | March 2020 – August 2026
+Bachelor of Arts in Malay-Indonesian Studies
+Bachelor of International Trade (확인: 졸업장 영문 학위명)
+- Cumulative GPA: 4.20/4.50
+
+**Universitas Indonesia** | January 2026 – April 2026
+Indonesian Language Programme for Foreign Speakers (BIPA)
+
+**Universiti Malaya** | September 2024 – February 2025
+Exchange Student (CAMPUS Asia-AIMS); modules in International Trade and Photography
+
+**Professional Experience**
+
+**ASEAN Foundation** | July 2026 – Present
+**Programme Intern**
+*Work across 7 programmes, joining stakeholder meetings and handling research, monitoring and evaluation, events and content.*
+- Helped run AFMAM for Students 2026, a Model ASEAN Meeting for 66 Indonesian high school delegates that closed with a Model East Asia Summit at the ASEAN Secretariat; interviewed 8 of 38 shortlisted teams and minuted coordination meetings with the organising committee.
+- Wrote an 18-page paper on ASEAN–China AI cooperation, drawing on 59 sources, and condensed it into a briefing and talking points for the Head of Programme's remarks at a China Institute of International Studies (CIIS) roundtable in Beijing.
+- Monitor and evaluate 30 MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact stories and edit team videos (5 to date, averaging 10,000 views).
+- Monitor mentoring sessions and business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth, including expansion into ASEAN markets.
+- Hosted and ran the technical side of national finals in 5 countries for ASEAN Data Science Explorers, a data analytics competition for university students run with SAP, managing about 30 team presentations.
+
+**Korea-Indonesia Connection (KIC) FISIP UI** | January 2026 – July 2026
+**Visiting Scholar** (확인: 임명장)
+*A joint initiative of the Faculty of Social and Political Sciences (FISIP), Universitas Indonesia, and the Korea Foundation.*
+- Main point of contact for Korean partner institutions, as the only Korean on the team.
+- Liaison Officer for the 2026 ASEAN-Korea Academic Conference (February 2026), organised with KASEAS and supported by the ASEAN-Korea Cooperation Fund (AKCF). Looked after delegates and on-site logistics for 50+ professors.
+- Coordinated the Korean side of a World Class University (WCU) 2026 community project (see Community Engagement).
+
+**Korea Institute for ASEAN Studies, BUFS** | June 2025 – February 2026
+**Research Assistant**
+- Planned and ran a semester-long guest lecture series on ASEAN affairs, with 3 invited speakers and 50+ students over the term.
+- Handled on-site operations for the institute's 2025 international conference, attended by 100+ scholars, about half of them from ASEAN Member States.
+- Managed the institute's website, social media and YouTube channel, and published 20+ articles and 3 video features on ASEAN affairs.
+
+**CMK School of ASEAN Studies** | July 2025 – August 2025
+**Team Researcher**
+- Selected as one of 15 Korean university students.
+- Spent 12 days on fieldwork in Bangkok, Singapore and Jakarta, and worked in joint teams with students from Universitas Indonesia and Chulalongkorn University.
+- Led the team's survey fieldwork in Indonesia (54 respondents) for a study on animal protein and malnutrition.
+
+**Awards and Scholarships**
+
+**Mission of the Republic of Korea to ASEAN** | October 2025
+**First Prize, 2025 Your-K, Your-ASEAN Video Contest**
+- Made 'My ASEAN Friends', a 4-minute video about friendships formed across ASEAN through exchange and fieldwork, for the Mission's contest promoting ASEAN–Korea relations.
+- Developed the concept, planned the shoot and filmed interviews in Bangkok, Kuala Lumpur and Jakarta in a team of three.
+
+**Hyundai Motor Chung Mong-Koo Foundation** | August 2025
+**Excellence Award, CMK School of ASEAN Studies**
+- Co-authored and presented 'Animal Protein Sources and Malnutrition: A Comparative Study in Southeast Asia', which compared Indonesia and the Philippines.
+- The award recognised the paper's research quality and policy relevance.
+
+**Ministry of Education, Republic of Korea** | September 2024
+**CAMPUS Asia-AIMS Scholarship**
+- Government-funded scholarship for a semester exchange at Universiti Malaya, worth approx. USD 3,500 in total.
+
+**Community Engagement**
+
+**Universitas Indonesia** | May 2026 – June 2026
+**Korean Team Coordinator**
+*A joint Indonesian–Korean project on waste management in vertical housing at Rusunawa KS Tubun, a low-cost public rental block in West Jakarta, under the World Class University (WCU) 2026 programme.*
+- Led a team of 4 Korean students from 4 universities: designed how the team would contribute and coordinated schedules with the Indonesian partners.
+- Gave the keynote at the Korea Waste Management System Talk Show, explaining to 50 residents how waste is sorted and recycled in Korea's high-rise apartment complexes and how that system could be adapted for their building.
+- Helped design a resident-run sorting system for the block, which had daily collection but no sorting at source.
+- Ran Global Networking sessions for Korean students and local young people, together with the youth organisation Karang Taruna.
+
+**Skills and Interests**
+- **Skills:** Programme Coordination, Stakeholder Engagement, Intercultural Communication, Event Operations, Digital Content Production
+- **Technical:** Microsoft Office, Google Workspace, Lark, CapCut (video editing), Canva (graphic design)
+- **Languages:** Korean (native), English (professional working proficiency), Indonesian (limited working proficiency)
+- **Interests:** ASEAN–Korea Higher Education Cooperation, International Student Mobility, Programme Design, Human Resource Development
+
+## 3-B. 이전 초안 (참고용, 위 최종본이 우선)
 
 ### Profile
 
