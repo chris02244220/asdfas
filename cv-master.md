@@ -53,7 +53,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 | ASEAN SOAR Together | ASEAN Foundation·TikTok Shop·ASEAN-BAC의 MSME 디지털 역량 사업. 2025년 1기 50개 기업. 2026년 2.0은 11개 회원국 MSME 120곳, 6~12월 | [5][6][25] |
 | ASEAN Data Science Explorers (ADSE) | ASEAN Foundation·SAP의 아세안 대학생 데이터 분석 경진대회. 2인 1팀, 나라별 결선 10팀(2025 규정), 우승팀은 지역 결선 진출 | [26][27] |
 | ASEAN SEDP Elevate | 4년간 진행된 ASEAN SEDP(사회적기업 100곳 지원)의 후속 과정. SAP 후원, 2026년 동문 사회적기업 17곳 멘토링·마스터클래스·비즈니스 매칭 | [28][29] |
-| Real Bean Coffee | 베트남 커피 기업. SEDP Elevate 17곳 중 2곳으로 선정돼 2026년 9월 마닐라 ASEAN Inclusive Business Forum·MSME Summit에서 소개됨 | [29][30][31] |
+| Real Bean Coffee | 베트남 커피 기업. SEDP Elevate 17곳 중 2곳으로 선정돼 2026년 9월 마닐라 ASEAN Inclusive Business Forum·MSME Summit에서 소개됨. CV에는 쓰지 않음(사용자 결정) | [29][30][31] |
 | CAMPUS Asia-AIMS | 교육부 총괄·예산, 대교협 관리. 학기 교류생 월 70만 원(대교협 기본계획). 대학 공고에 '국가장학'으로 표기 | [7][8] |
 | AIMS 지원 사례 | 전남대 2025-2: 월 70만 원 × 4회, 정착 20만 원, 항공 50만 원(최대 350만 원). 한남대: 왕복 항공 최대 50만 원. 영산대: 항공 최대 100만 원 | [8][9][10] |
 | 장학금 환율 | 2024.9~2025.2 월평균의 평균 1,404원/달러 | [11][12] |
@@ -69,7 +69,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 
 | 항목 | 내용 |
 |---|---|
-| ASEAN Foundation | 영상 플랫폼과 '평균 100만'(총 500만인지), 광고 집행 여부 / SEDP 모니터링 세션 수, 커피 기업이 Real Bean Coffee인지 / AI 리서치 형식·분량·내용·쓰임 / SOAR에서 M&E한 MSME 수와 측정 내용 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
+| ASEAN Foundation | 중국–아세안 AI 리서치 내용(사용자가 줄 예정) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
 | AIMS 장학금 금액 | 월 체재비 받은 횟수, 항공료 실제 금액. 현재 USD 3,500은 '6개월, 항공 50만 원' 가정 |
 | 말레이어 수준 | elementary 또는 limited working. 기초 수준이면 Profile 마지막 문장 수정 |
 | 학위 영문명 | 한국외대(합격 통지서), 부산외대(졸업장), 학점 |
@@ -107,14 +107,15 @@ Incoming master's student in Education Policy at Hankuk University of Foreign St
 
 **ASEAN Foundation** | July 2026 – Present
 **Programme Intern**
-*Set up by ASEAN Leaders in 1997 to promote people-to-people contact across ASEAN. Worked across 7 programmes, joining stakeholder meetings and supporting programme delivery.*
-- Monitor and evaluate [X] MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme supporting 120 MSMEs across 11 ASEAN Member States, and help film their impact stories.
-- Monitored [X] mentoring sessions in ASEAN SEDP Elevate, an SAP-backed programme for 17 social enterprises, including a Vietnamese coffee brand later chosen as 1 of 2 to be showcased at the ASEAN Inclusive Business Forum in Manila.
+*Work across 7 programmes, joining stakeholder meetings and handling monitoring and evaluation, events, research and content.*
+- Monitor and evaluate [X] MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact stories and edit team videos (5 to date, averaging 10,000 views).
+- Monitor mentoring sessions and, from [month], business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth, including expansion into ASEAN markets.
 - Hosted and ran the technical side of national finals in 5 countries for ASEAN Data Science Explorers, a data analytics competition for university students run with SAP, managing about 30 team presentations.
-- Wrote a [research brief] on China–ASEAN cooperation in AI for AI Ready ASEAN, a USD 5 million Google.org-funded programme to build AI literacy for 5.5 million people, [covering X].
-- Edited 5 videos on the SOAR team's work for [TikTok], averaging 1 million views each.
+- (중국–아세안 AI 협력 리서치: 사용자가 내용을 줄 예정. AI Ready ASEAN 규모 표현: a USD 5 million Google.org-funded programme to build AI literacy for 5.5 million people)
 
-초안(2026-11-05). 확인할 것은 2-3 참고. 1번만 현재형(진행 중), 나머지는 끝난 일이라 과거형. 영상·홍보 직무에는 5번을 2번으로 올림. 릴스 5회·5.6만 회는 CV에서 빼고 LinkedIn에만. 커피 기업 멘토링 내용(재고 관리·제품 선정 조언)은 면접용 사례.
+초안 2판(2026-11-05). 설명 줄은 재단 소개 대신 본인 역할 요약(사용자 요청). SEDP 포럼 성과는 쓰지 않음(사용자 요청). 영상은 평균 1만 회(100만 회 아님). SOAR·SEDP는 진행 중이라 현재형, ADSE는 끝난 일이라 과거형. 릴스 5회·5.6만 회는 CV에서 빼고 LinkedIn에만. 커피 기업 멘토링 내용(말레이시아 멘토가 재고 관리·제품 선정 조언)은 면접용 사례.
+
+설명 줄 대안(전반적 운영 경험을 살리고 싶을 때): Work across 7 programmes, with hands-on experience of the full programme cycle, from stakeholder meetings to monitoring and evaluation.
 
 **Korea-Indonesia Connection (KIC), Universitas Indonesia** | January 2026 – July 2026
 **Visiting Scholar** (확인: 임명장)
