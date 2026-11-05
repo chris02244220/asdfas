@@ -118,14 +118,14 @@ KIC is a joint initiative of the Faculty of Social and Political Sciences (FISIP
 | Company | Hyundai Motor Chung Mong-Koo Foundation |
 | Dates | Jul 2025 – Aug 2025 |
 | Location | Seoul, South Korea |
-| Skills | Field Research, Survey Research, Cross-cultural Communication |
+| Skills | Field Research, Survey Research, Public Speaking, Cross-cultural Communication |
 
 ```text
 A two-month programme run by the Asiatic Research Institute, Korea University, combining lectures in Korea with fieldwork and team research.
 
 • Selected as one of 15 Korean university students.
 • Spent 12 days on fieldwork in Bangkok, Singapore and Jakarta, working in joint teams with students from Universitas Indonesia and Chulalongkorn University.
-• Led the team's survey fieldwork in Indonesia (54 respondents) for a comparative study of animal protein and malnutrition in Indonesia and the Philippines, which received the programme's Excellence Award.
+• Led the team's survey fieldwork in Indonesia (54 respondents), then co-authored and presented our comparative study of animal protein and malnutrition in Indonesia and the Philippines, which received the programme's Excellence Award.
 ```
 
 ## 3. Education
