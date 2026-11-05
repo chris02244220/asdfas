@@ -69,7 +69,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 
 | 항목 | 내용 |
 |---|---|
-| ASEAN Foundation | 중국–아세안 AI 리서치 내용(사용자가 줄 예정) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
+| ASEAN Foundation | CIIS 원탁회의 날짜(선택) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
 | AIMS 장학금 금액 | 월 체재비 받은 횟수, 항공료 실제 금액. 현재 USD 3,500은 '6개월, 항공 50만 원' 가정 |
 | 말레이어 수준 | elementary 또는 limited working. 기초 수준이면 Profile 마지막 문장 수정 |
 | 학위 영문명 | 한국외대(합격 통지서), 부산외대(졸업장), 학점 |
@@ -107,13 +107,15 @@ Incoming master's student in Education Policy at Hankuk University of Foreign St
 
 **ASEAN Foundation** | July 2026 – Present
 **Programme Intern**
-*Work across 7 programmes, joining stakeholder meetings and handling monitoring and evaluation, events, research and content.*
+*Work across 7 programmes, joining stakeholder meetings and handling research, monitoring and evaluation, events and content.*
+- Wrote an 18-page paper on ASEAN–China AI cooperation, drawing on 59 sources, and condensed it into a briefing and talking points for the Head of Programme's remarks at a China Institute of International Studies (CIIS) roundtable in Beijing.
 - Monitor and evaluate [X] MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact stories and edit team videos (5 to date, averaging 10,000 views).
 - Monitor mentoring sessions and, from [month], business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth, including expansion into ASEAN markets.
 - Hosted and ran the technical side of national finals in 5 countries for ASEAN Data Science Explorers, a data analytics competition for university students run with SAP, managing about 30 team presentations.
-- (중국–아세안 AI 협력 리서치: 사용자가 내용을 줄 예정. AI Ready ASEAN 규모 표현: a USD 5 million Google.org-funded programme to build AI literacy for 5.5 million people)
 
-초안 2판(2026-11-05). 설명 줄은 재단 소개 대신 본인 역할 요약(사용자 요청). SEDP 포럼 성과는 쓰지 않음(사용자 요청). 영상은 평균 1만 회(100만 회 아님). SOAR·SEDP는 진행 중이라 현재형, ADSE는 끝난 일이라 과거형. 릴스 5회·5.6만 회는 CV에서 빼고 LinkedIn에만. 커피 기업 멘토링 내용(말레이시아 멘토가 재고 관리·제품 선정 조언)은 면접용 사례.
+초안 3판(2026-11-05). 리서치 불릿이 가장 강해 맨 앞으로 올림(사용자 제공 문장을 다듬음). 프로그램 관리 직무에 낼 때는 SOAR를 1번으로. AI Ready ASEAN을 밝히고 싶으면 리서치 불릿 앞에 'For AI Ready ASEAN,'(3줄로 늘어남). 원탁회의 날짜를 알면 'in Beijing' 뒤에 '(Month 2026)'.
+
+초안 2판 메모(2026-11-05). 설명 줄은 재단 소개 대신 본인 역할 요약(사용자 요청). SEDP 포럼 성과는 쓰지 않음(사용자 요청). 영상은 평균 1만 회(100만 회 아님). SOAR·SEDP는 진행 중이라 현재형, ADSE는 끝난 일이라 과거형. 릴스 5회·5.6만 회는 CV에서 빼고 LinkedIn에만. 커피 기업 멘토링 내용(말레이시아 멘토가 재고 관리·제품 선정 조언)은 면접용 사례.
 
 설명 줄 대안(전반적 운영 경험을 살리고 싶을 때): Work across 7 programmes, with hands-on experience of the full programme cycle, from stakeholder meetings to monitoring and evaluation.
 
