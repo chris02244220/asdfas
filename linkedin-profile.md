@@ -15,16 +15,18 @@
 | Current position 표시 | ASEAN Foundation |
 | Profile language | English |
 
+헤드라인 방향(2026-11-05, 사용자 요청): 교육학 키워드 중심, 언어 제외, 대학원 언급 제외. 직무 키워드(M&E 등)는 경력 섹션 스킬 태그에 둠.
+
 ### Headline (추천)
 
 ```text
-Programme Intern, ASEAN Foundation | Regional Programmes, M&E & Stakeholder Engagement | International Student Mobility | Korean · English · Indonesian
+International Student Mobility | Experiential Learning, Learning Transfer & Programme Design | Education Policy & HRD | ASEAN Foundation
 ```
 
 ### Headline (대안: 더 짧게)
 
 ```text
-Programme Intern, ASEAN Foundation | Regional Programmes & M&E | Korean · English · Indonesian
+International Student Mobility & Experiential Learning | Education Policy & Programme Design | ASEAN Foundation
 ```
 
 ## 1. About
@@ -35,7 +37,7 @@ Seongjae Lee is interested in international student mobility, and in why time ab
 
 3인칭 네 문장, 관심사로 시작(2026-11-05, 사용자 요청: 첫 줄에 관심사). 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
-Top skills(About 아래 5개 고정): Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Research
+Top skills(About 아래 5개 고정): International Education · Experiential Learning · Program Evaluation · Education Policy · Research
 
 ## 2. Experience
 
@@ -238,7 +240,7 @@ Government-funded scholarship for a semester exchange at Universiti Malaya, wort
 
 ## 7. Skills (전체 목록, LinkedIn 자동완성 태그 그대로)
 
-Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Research · Cross-cultural Communication · International Relations · Public Diplomacy · Youth Development · Capacity Building · International Education · Field Research · Survey Research · Content Writing · Video Production · Video Editing · Public Speaking · Microsoft Office · Google Workspace · Canva · CapCut
+International Education · Experiential Learning · Program Evaluation · Education Policy · Research · Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Cross-cultural Communication · International Relations · Public Diplomacy · Youth Development · Capacity Building · Field Research · Survey Research · Content Writing · Video Production · Video Editing · Public Speaking · Microsoft Office · Google Workspace · Canva · CapCut
 
 ## 8. Featured
 
