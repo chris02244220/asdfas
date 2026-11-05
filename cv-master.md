@@ -53,7 +53,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 | ASEAN SOAR Together | ASEAN Foundation·TikTok Shop·ASEAN-BAC의 MSME 디지털 역량 사업. 2025년 1기 50개 기업. 2026년 2.0은 11개 회원국 MSME 120곳, 6~12월 | [5][6][25] |
 | ASEAN Data Science Explorers (ADSE) | ASEAN Foundation·SAP의 아세안 대학생 데이터 분석 경진대회. 2인 1팀, 나라별 결선 10팀(2025 규정), 우승팀은 지역 결선 진출 | [26][27] |
 | ASEAN SEDP Elevate | 4년간 진행된 ASEAN SEDP(사회적기업 100곳 지원)의 후속 과정. SAP 후원, 2026년 동문 사회적기업 17곳 멘토링·마스터클래스·비즈니스 매칭 | [28][29] |
-| AFMAM | ASEAN Foundation의 대표 청년 프로그램. 공식 AFMAM은 대학생 대상(2026 EAS판: 12.7~11, ASEAN 사무국, 18~26세 최대 60명, ASEAN Work Plan on Youth 2026~2030에 포함). 고등학생판 'AFMAM for Students'는 인도네시아 교사 단체 FGII가 주도, 과거 외교부·교육 당국 지원 보도. 2026 고등학생판 세부(100명, 장소, 교육부 미팅)는 공개 자료 없음(사용자 직접 경험) | [32][33][34] |
+| AFMAM | ASEAN Foundation의 대표 청년 프로그램. 공식 AFMAM은 대학생 대상(2026 EAS판: 12.7~11, ASEAN 사무국, 18~26세 최대 60명, ASEAN Work Plan on Youth 2026~2030에 포함). 고등학생판 'AFMAM for Students'는 인도네시아 교사 단체 FGII가 주도, 과거 외교부·교육 당국 지원 보도. 2026 고등학생판(내부 문서 기준): 주제 'Navigating Our Future, Together'(2026 필리핀 의장국), 5일 하이브리드(1~2일 온라인, 3~4일 SMAN 6 Jakarta, 5일 ASEAN 사무국), 대표단 63명(9월 회의록) → 66명(TOR) + 지도교사 20명 + 교사 조직위원 10명, 3단계 선발(영어·ASEAN 지식·국가 면접), 국가 면접은 인턴 4~5명이 38팀을 Zoom으로(1인당 7~8팀), 10.19 ASEAN 사무국에서 Model EAS·사무국 투어·PTRI 방문. 9.9 조정 회의는 재단 4명(본인 포함)과 조직위원회 3명, 회의록 작성은 본인. 인도네시아 외교부는 일정 자문과 내년 지원 예정으로만 언급, 교육부는 언급 없음 | [32][33][34], 내부 문서 |
 | Real Bean Coffee | 베트남 커피 기업. SEDP Elevate 17곳 중 2곳으로 선정돼 2026년 9월 마닐라 ASEAN Inclusive Business Forum·MSME Summit에서 소개됨. CV에는 쓰지 않음(사용자 결정) | [29][30][31] |
 | CAMPUS Asia-AIMS | 교육부 총괄·예산, 대교협 관리. 학기 교류생 월 70만 원(대교협 기본계획). 대학 공고에 '국가장학'으로 표기 | [7][8] |
 | AIMS 지원 사례 | 전남대 2025-2: 월 70만 원 × 4회, 정착 20만 원, 항공 50만 원(최대 350만 원). 한남대: 왕복 항공 최대 50만 원. 영산대: 항공 최대 100만 원 | [8][9][10] |
@@ -70,7 +70,7 @@ CV와 LinkedIn 작업의 기준 문서. 대화가 길어지거나 새 대화를 
 
 | 항목 | 내용 |
 |---|---|
-| ASEAN Foundation | AFMAM 고등학생판의 공식 명칭('AFMAM for Students'인지), 공동 주최(FGII 등), 미팅한 교육 당국(중앙 Kemendikdasmen인지 자카르타 교육청인지), 지원자·면접 인원, 행사 날짜 / CIIS 원탁회의 날짜(선택) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
+| ASEAN Foundation | AFMAM: 본인이 면접한 팀 수(계획상 1인당 7~8팀), 회의록을 쓴 회의가 여러 번인지(한 번이면 'meetings' → 'meeting'), 최종 대표단 수(63/66), 교육부와 별도 회의가 있었는지(두 문서에는 없음) / CIIS 원탁회의 날짜(선택) / SEDP 비즈니스 매치메이킹 시작 월 / SOAR에서 M&E한 MSME 수와 측정 내용 / 영상 플랫폼 / ADSE 담당 5개국과 발표 수(규정상 나라별 10팀) / 나머지 3개 프로그램 이름 |
 | AIMS 장학금 금액 | 월 체재비 받은 횟수, 항공료 실제 금액. 현재 USD 3,500은 '6개월, 항공 50만 원' 가정 |
 | 말레이어 수준 | elementary 또는 limited working. 기초 수준이면 Profile 마지막 문장 수정 |
 | 학위 영문명 | 한국외대(합격 통지서), 부산외대(졸업장), 학점 |
@@ -109,13 +109,13 @@ Incoming master's student in Education Policy at Hankuk University of Foreign St
 **ASEAN Foundation** | July 2026 – Present
 **Programme Intern**
 *Work across 7 programmes, covering participant selection, monitoring and evaluation, research, events and stakeholder meetings.*
-- Helped run [AFMAM for Students], a Model ASEAN Meeting at the ASEAN Secretariat for 100 Indonesian high school students: interviewed applicants, managed the event and joined meetings with [Indonesia's Ministry of Primary and Secondary Education].
+- Helped run AFMAM for Students 2026, a Model ASEAN Meeting for 66 Indonesian high school delegates that closed with a Model East Asia Summit at the ASEAN Secretariat; interviewed [8] of 38 shortlisted teams and minuted coordination meetings with the organising committee.
 - Wrote an 18-page paper on ASEAN–China AI cooperation, drawing on 59 sources, and condensed it into a briefing and talking points for the Head of Programme's remarks at a China Institute of International Studies (CIIS) roundtable in Beijing.
 - Monitor and evaluate [X] MSMEs in ASEAN SOAR Together, a TikTok Shop-backed programme for 120 MSMEs in 11 ASEAN countries; help film their impact stories and edit team videos (5 to date, averaging 10,000 views).
 - Monitor mentoring sessions and, from [month], business matchmaking in ASEAN SEDP Elevate, an SAP-backed programme that mentors 17 social enterprises on growth, including expansion into ASEAN markets.
 - Hosted and ran the technical side of national finals in 5 countries for ASEAN Data Science Explorers, a data analytics competition for university students run with SAP, managing about 30 team presentations.
 
-초안 4판(2026-11-05). AFMAM 고등학생판을 1번으로 추가(선발부터 행사 운영, 교육 당국 미팅까지 맡아 요약문의 '정책 → 프로그램 설계'와 가장 가깝고 교육 프로그램이라 대학원 지원에 맞음). 리서치는 2번. 정책·리서치 직무에 낼 때는 1·2번을 바꿈.
+초안 5판(2026-11-05). AFMAM 불릿을 사용자 제공 내부 문서(회의록 2026.9.9, TOR 2026.10.19)로 다시 씀: 100명 → 66명(TOR), 교육부 미팅 → 조직위원회와의 조정 회의(회의록 작성자가 본인). 교육부는 두 문서에 나오지 않음. AFMAM은 선발·운영·조정을 함께 맡은 교육 프로그램이라 1번 유지. 리서치는 2번. 정책·리서치 직무에 낼 때는 1·2번을 바꿈.
 
 초안 3판 메모(2026-11-05). 리서치 불릿이 가장 강해 맨 앞으로 올림(사용자 제공 문장을 다듬음). 프로그램 관리 직무에 낼 때는 SOAR를 1번으로. AI Ready ASEAN을 밝히고 싶으면 리서치 불릿 앞에 'For AI Ready ASEAN,'(3줄로 늘어남). 원탁회의 날짜를 알면 'in Beijing' 뒤에 '(Month 2026)'.
 
