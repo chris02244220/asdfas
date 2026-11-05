@@ -110,7 +110,7 @@ KIC is a joint initiative of the Faculty of Social and Political Sciences (FISIP
 | Skills | Field Research, Survey Research, Public Speaking, Cross-cultural Communication |
 
 ```text
-A two-month programme run by the Asiatic Research Institute, Korea University, combining lectures in Korea with fieldwork and team research.
+A two-month programme run by the Asiatic Research Institute, Korea University, to train future ASEAN specialists through lectures in Korea, fieldwork in three ASEAN countries and team research.
 
 • Selected as one of 15 Korean university students.
 • Spent 12 days on fieldwork in Bangkok, Singapore and Jakarta, working in joint teams with students from Universitas Indonesia and Chulalongkorn University.
