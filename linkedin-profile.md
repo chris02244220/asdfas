@@ -15,18 +15,18 @@
 | Current position 표시 | ASEAN Foundation |
 | Profile language | English |
 
-헤드라인 방향(2026-11-05, 사용자 요청): 교육학 키워드 중심, 언어 제외, 대학원 언급 제외. 직무 키워드(M&E 등)는 경력 섹션 스킬 태그에 둠.
+헤드라인 방향(2026-11-05, 사용자 요청): 교육학 키워드 중심, 첫 키워드에 ASEAN, 언어 제외, 대학원 언급 제외. 직무 키워드(M&E 등)는 경력 섹션 스킬 태그에 둠.
 
 ### Headline (추천)
 
 ```text
-International Student Mobility | Experiential Learning, Learning Transfer & Programme Design | Education Policy & HRD | ASEAN Foundation
+International Student Mobility in ASEAN | Experiential Learning, Learning Transfer & Programme Design | Education Policy & HRD | ASEAN Foundation
 ```
 
 ### Headline (대안: 더 짧게)
 
 ```text
-International Student Mobility & Experiential Learning | Education Policy & Programme Design | ASEAN Foundation
+ASEAN Student Mobility & Experiential Learning | Education Policy & Programme Design | ASEAN Foundation
 ```
 
 ## 1. About
