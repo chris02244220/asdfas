@@ -18,22 +18,22 @@
 ### Headline (추천)
 
 ```text
-Programme Intern, ASEAN Foundation | ASEAN–Korea Exchange & Student Mobility | Incoming Master's, Education Policy | Korean · English · Indonesian
+Programme Intern, ASEAN Foundation | Regional Programmes, M&E & Stakeholder Engagement | International Student Mobility | Korean · English · Indonesian
 ```
 
-### Headline (대안: 더 짧게, 언어 제외)
+### Headline (대안: 더 짧게)
 
 ```text
-ASEAN–Korea Exchange | Programme Intern, ASEAN Foundation | Incoming Master's in Education Policy
+Programme Intern, ASEAN Foundation | Regional Programmes & M&E | Korean · English · Indonesian
 ```
 
 ## 1. About
 
 ```text
-Seongjae Lee works on ASEAN–Korea people-to-people exchange, focusing on international student mobility and programme design. As a Programme Intern at the ASEAN Foundation in Jakarta, he supports 7 regional programmes, from a Model ASEAN Meeting for Indonesian high school students to digital training for small businesses. Having taken part in exchanges as a student and helped organise them in Indonesia, he starts a master's in Education Policy at Hankuk University of Foreign Studies in March 2027 to study what makes time abroad last.
+Seongjae Lee is a Programme Intern at the ASEAN Foundation in Jakarta, supporting 7 regional programmes, from youth diplomacy simulations to digital training for small businesses. Having experienced international exchange as both a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies), he has seen time abroad end as a one-off or grow into sustained engagement. His interests lie in international student mobility: how policy is translated into programme design, and how that design shapes whether experiential learning abroad transfers to participants' studies and careers after they return.
 ```
 
-3인칭 세 문장으로 줄임(2026-11-05, 사용자 예시 형식). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
+3인칭 세 문장(2026-11-05). 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
 Top skills(About 아래 5개 고정): Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Research
 
