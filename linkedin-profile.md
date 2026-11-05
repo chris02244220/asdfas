@@ -30,10 +30,10 @@ Programme Intern, ASEAN Foundation | Regional Programmes & M&E | Korean · Engli
 ## 1. About
 
 ```text
-Seongjae Lee is a Programme Intern at the ASEAN Foundation in Jakarta, supporting 7 regional programmes, from youth diplomacy simulations to digital training for small businesses. Having experienced international exchange as both a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies), he has seen time abroad end as a one-off or grow into sustained engagement. His interests lie in international student mobility: how policy is translated into programme design, and how that design shapes whether experiential learning abroad transfers to participants' studies and careers after they return.
+Seongjae Lee is interested in international student mobility, and in why time abroad ends as a one-off for some and grows into sustained engagement for others. He focuses on how policy is translated into programme design, and how that design shapes whether experiential learning abroad transfers to participants' studies and careers after they return. This interest comes from experiencing exchange as both a participant (CAMPUS Asia-AIMS, CMK School of ASEAN Studies) and an organiser (ASEAN Foundation, Universitas Indonesia, Korea Institute for ASEAN Studies). He is now a Programme Intern at the ASEAN Foundation in Jakarta, supporting 7 regional programmes.
 ```
 
-3인칭 세 문장(2026-11-05). 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
+3인칭 네 문장, 관심사로 시작(2026-11-05, 사용자 요청: 첫 줄에 관심사). 사용자가 마음에 들어 한 CV 요약문을 바탕으로 함. 현재 업무는 아세안 전반(한–아세안 교류 아님), 대학원 언급은 About·헤드라인에서 뺌(사용자 요청). 그 전의 관심사 중심 1인칭판도 폐기. 이전 성과 나열형은 경력 섹션과 겹쳐 폐기. 한 일과 숫자는 경력·Featured에서 보여 준다.
 
 Top skills(About 아래 5개 고정): Program Management · Monitoring and Evaluation (M&E) · Stakeholder Engagement · Event Management · Research
 
